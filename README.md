@@ -4,5 +4,9 @@ Juego Creado en HTML,CSS y JS
 
 
 
-https://github.com/user-attachments/assets/046c1d37-2796-4fcf-9ef7-9c080cfed3a7
+https://github.com/user-attachments/assets/b37e7027-4aca-4dab-aa33-243e1f3150af
+
+
+
+
 
